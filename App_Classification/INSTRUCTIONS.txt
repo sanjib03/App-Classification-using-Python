@@ -1,0 +1,13 @@
+The code runs on Unix terminal.
+
+Libraries need to be installed before running the code:
+- nltk
+- sklearn
+- matplotlib
+- numpy
+
+To run :
+- Navigate to the App_Classification folder
+- Execute this command in terminal : sh run.sh <app id>
+	for eg. sh run.sh 39080234
+
